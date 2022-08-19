@@ -1,1 +1,65 @@
-//nhét fbstate của bạn dô đây =))
+[
+    {
+        "key": "wd",
+        "value": "681x615",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-08-19T16:01:58.321Z",
+        "lastAccessed": "2022-08-19T16:01:58.321Z"
+    },
+    {
+        "key": "sb",
+        "value": "erH_YmSnp4M8SOEtNtK0WcZk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-08-19T16:01:58.321Z",
+        "lastAccessed": "2022-08-19T16:01:58.321Z"
+    },
+    {
+        "key": "datr",
+        "value": "erH_YlYPDwtDAI9C2Z7h1WEy",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-08-19T16:01:58.321Z",
+        "lastAccessed": "2022-08-19T16:01:58.321Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100083006863919",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-08-19T16:01:58.321Z",
+        "lastAccessed": "2022-08-19T16:01:58.321Z"
+    },
+    {
+        "key": "xs",
+        "value": "37%3A1OqeFz_tzPBIcw%3A2%3A1660924290%3A-1%3A6303",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-08-19T16:01:58.321Z",
+        "lastAccessed": "2022-08-19T16:01:58.321Z"
+    },
+    {
+        "key": "fr",
+        "value": "0ioKxVb28odG1VF4X.AWWCu-VAUl90j-lOtL746xFvQL0.BiuDot.MH.AAA.0.0.Bi_7GP.AWWdOLiJzf0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-08-19T16:01:58.321Z",
+        "lastAccessed": "2022-08-19T16:01:58.321Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1660924918009%2C%22lm3%22%3A%22u.100079086107928%22%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-08-19T16:01:58.321Z",
+        "lastAccessed": "2022-08-19T16:01:58.321Z"
+    }
+]
